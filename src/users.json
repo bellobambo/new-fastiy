@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "gender": "male",
+        "country": "United States"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "gender": "female",
+        "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "David Johnson",
+        "email": "davidjohnson@example.com",
+        "gender": "male",
+        "country": "United Kingdom"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "email": "emilydavis@example.com",
+        "gender": "female",
+        "country": "Australia"
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "email": "michaelbrown@example.com",
+        "gender": "male",
+        "country": "Germany"
+    },
+    {
+        "id": 6,
+        "name": "Sarah Wilson",
+        "email": "sarahwilson@example.com",
+        "gender": "female",
+        "country": "France"
+    },
+    {
+        "id": 7,
+        "name": "Robert Lee",
+        "email": "robertlee@example.com",
+        "gender": "male",
+        "country": "South Korea"
+    },
+    {
+        "id": 8,
+        "name": "Jessica Rodriguez",
+        "email": "jessicarodriguez@example.com",
+        "gender": "female",
+        "country": "Mexico"
+    },
+    {
+        "id": 9,
+        "name": "Daniel Kim",
+        "email": "danielkim@example.com",
+        "gender": "male",
+        "country": "Japan"
+    },
+    {
+        "id": 10,
+        "name": "Sophia Liu",
+        "email": "sophialiu@example.com",
+        "gender": "female",
+        "country": "China"
+    }
+]
